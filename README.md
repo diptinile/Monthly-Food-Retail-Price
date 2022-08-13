@@ -1,4 +1,4 @@
-# Monthly-Food-Retail-Price
+# Price Optimization Case Study.
 
 # Aim :
 To analyse monthly_food_retail_price_dataset to find out price of commodity increase and predict high retail price by using of Logistic-Regression.
