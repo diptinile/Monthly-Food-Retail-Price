@@ -25,4 +25,8 @@ Tableau Public
 
 # Conclusion :
 We have drawn many interesting inferences from the dataset employee_dataset; here’s a summary of the few of them
-1.
+1.The maximum retail price is 20045.
+2.The minimum retail price is 0.0.
+3.The commodity Rice has maximum  value in India (61965).
+4. The commodity Ragi has minimum value in India (14580).
+5. so, in this dataset we are seen maximum and minimum retail price in India and also which commodity is maximum and minimum in India.
