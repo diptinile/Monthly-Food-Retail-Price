@@ -34,4 +34,4 @@ We have drawn many interesting inferences from the dataset employee_dataset; her
 
 4. The commodity Ragi has minimum value in India (14580).
 
-6. so, in this dataset we are seen maximum and minimum retail price in India and also which commodity is maximum and minimum in India.
+5. so, in this dataset we are seen maximum and minimum retail price in India and also which commodity is maximum and minimum in India.
